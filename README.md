@@ -38,7 +38,7 @@
 
 The Docker Official Images are curated images [hosted on Docker Hub](https://hub.docker.com/u/library). The main tenets are:
 
-- Focus on [Free](https://www.fsf.org/) and [Open-Source](https://opensource.org/) Software
+- Focus on [Free](https://www.debian.org/social_contract#guidelines) and [Open-Source](https://opensource.org/) Software
 
 - Support [multiple architectures](#architectures-other-than-amd64)
 
@@ -168,7 +168,7 @@ All official images should provide a consistent interface. A beginning user shou
 3.	If the image only contains the main executable and its linked libraries (ie no shell) then it is fine to use the executable as the `ENTRYPOINT`, since that is the only thing that can run:
 
 	```Dockerfile
-	ENTRYPOINT ["swarm"]
+	ENTRYPOINT ["fully-static-binary"]
 	CMD ["--help"]
 	```
 

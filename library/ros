@@ -146,7 +146,7 @@ Directory: ros/dashing/ubuntu/bionic/ros-base
 
 Tags: dashing-ros1-bridge, dashing-ros1-bridge-bionic
 Architectures: amd64, arm32v7, arm64v8
-GitCommit: dae91acf0f246fd2b56dcb62738c99c6a7f2a0e9
+GitCommit: 0d38100e2fec914106507817e3122d467617e2ee
 Directory: ros/dashing/ubuntu/bionic/ros1-bridge
 
 
@@ -202,16 +202,16 @@ Directory: ros/foxy/ubuntu/focal/ros1-bridge
 
 Tags: rolling-ros-core, rolling-ros-core-focal
 Architectures: amd64, arm64v8
-GitCommit: df19ab7d5993d3b78a908362cdcd1479a8e78b35
+GitCommit: a5644adacdca4a49faf10221620048175cdd7262
 Directory: ros/rolling/ubuntu/focal/ros-core
 
 Tags: rolling-ros-base, rolling-ros-base-focal, rolling
 Architectures: amd64, arm64v8
-GitCommit: df19ab7d5993d3b78a908362cdcd1479a8e78b35
+GitCommit: a5644adacdca4a49faf10221620048175cdd7262
 Directory: ros/rolling/ubuntu/focal/ros-base
 
 Tags: rolling-ros1-bridge, rolling-ros1-bridge-focal
 Architectures: amd64, arm64v8
-GitCommit: 727ccbb47e31d2893e0cd097d5c83ef03cf49b5c
+GitCommit: a5644adacdca4a49faf10221620048175cdd7262
 Directory: ros/rolling/ubuntu/focal/ros1-bridge
 

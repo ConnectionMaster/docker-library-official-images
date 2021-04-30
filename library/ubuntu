@@ -3,43 +3,43 @@
 
 Maintainers: Tianon Gravi <tianon@debian.org> (@tianon), Michael Hudson-Doyle <michael.hudson@ubuntu.com> (@mwhudson)
 GitRepo: https://github.com/tianon/docker-brew-ubuntu-core.git
-GitCommit: 307c20ce58171e7e30925ddc2588f7f7bff6e167
+GitCommit: 29172377e5a8343945621e490da0ca315cbf46f9
 # https://github.com/tianon/docker-brew-ubuntu-core/tree/dist-amd64
 amd64-GitFetch: refs/heads/dist-amd64
-amd64-GitCommit: 74249faf47098bef2cedad89696bfd1ed521e019
+amd64-GitCommit: 4b7cb6f04bc4054f9ab1fa42b549caa1a41b7c92
 # https://github.com/tianon/docker-brew-ubuntu-core/tree/dist-arm32v7
 arm32v7-GitFetch: refs/heads/dist-arm32v7
-arm32v7-GitCommit: 6a5631feaa8e67d04a6d794cd106735571901cdb
+arm32v7-GitCommit: 33d13659793c901ec68569a2e9f61b2480fe6a7a
 # https://github.com/tianon/docker-brew-ubuntu-core/tree/dist-arm64v8
 arm64v8-GitFetch: refs/heads/dist-arm64v8
-arm64v8-GitCommit: 16d9b6f133b40c915fdc53ca9f76ac27d33b8643
+arm64v8-GitCommit: f6204791c7de14b80e35044e7188a298fa130ada
 # https://github.com/tianon/docker-brew-ubuntu-core/tree/dist-i386
 i386-GitFetch: refs/heads/dist-i386
-i386-GitCommit: c0a5dcc5bf862a2515cc2ecc0cf4edfdd180b83c
+i386-GitCommit: d17f75c6c98c92f320ffa928a4d69bed19aa17fd
 # https://github.com/tianon/docker-brew-ubuntu-core/tree/dist-ppc64le
 ppc64le-GitFetch: refs/heads/dist-ppc64le
-ppc64le-GitCommit: 7d30b8f9533879e1cd5bc4811b8677ac5cdf7d08
+ppc64le-GitCommit: 4bb5c324d4d62a97c6eab7101a8afab92350c13a
 # https://github.com/tianon/docker-brew-ubuntu-core/tree/dist-s390x
 s390x-GitFetch: refs/heads/dist-s390x
-s390x-GitCommit: d1497d463aa91f538c6a0bb3e7b9dac6ab34e650
+s390x-GitCommit: a3dad9e5ee57e0f55c68b5f0e4dc1456789b4d6c
 
-# 20201119 (bionic)
-Tags: 18.04, bionic-20201119, bionic
+# 20210416 (bionic)
+Tags: 18.04, bionic-20210416, bionic
 Architectures: amd64, arm32v7, arm64v8, i386, ppc64le, s390x
 Directory: bionic
 
-# 20201106 (focal)
-Tags: 20.04, focal-20201106, focal, latest
+# 20210416 (focal)
+Tags: 20.04, focal-20210416, focal, latest
 Architectures: amd64, arm32v7, arm64v8, ppc64le, s390x
 Directory: focal
 
-# 20201125.2 (groovy)
-Tags: 20.10, groovy-20201125.2, groovy, rolling
+# 20210416 (groovy)
+Tags: 20.10, groovy-20210416, groovy
 Architectures: amd64, arm32v7, arm64v8, ppc64le, s390x
 Directory: groovy
 
-# 20201119 (hirsute)
-Tags: 21.04, hirsute-20201119, hirsute, devel
+# 20210422 (hirsute)
+Tags: 21.04, hirsute-20210422, hirsute, rolling, devel
 Architectures: amd64, arm32v7, arm64v8, ppc64le, s390x
 Directory: hirsute
 
@@ -48,7 +48,7 @@ Tags: 14.04, trusty-20191217, trusty
 Architectures: amd64, arm32v7, arm64v8, i386, ppc64le
 Directory: trusty
 
-# 20201030 (xenial)
-Tags: 16.04, xenial-20201030, xenial
+# 20210416 (xenial)
+Tags: 16.04, xenial-20210416, xenial
 Architectures: amd64, arm32v7, arm64v8, i386, ppc64le, s390x
 Directory: xenial

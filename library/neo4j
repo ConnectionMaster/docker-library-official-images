@@ -8,12 +8,42 @@ Maintainers: Chris Gioran <chris@neo4j.com> (@digitalstain),
              Jenny Owen <jenny.owen@neo4j.com> (@jennyowen),
              Bledi Feshti <bledi.feshti@neo4j.com> (@bfeshti)
 
-Tags: 4.2.2, 4.2, latest
+Tags: 4.2.5, 4.2, latest
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: d22293f2e465b63ee5a63f0a2b8f817717a64a8b
+Directory: 4.2.5/community
+
+Tags: 4.2.5-enterprise, 4.2-enterprise, enterprise
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: d22293f2e465b63ee5a63f0a2b8f817717a64a8b
+Directory: 4.2.5/enterprise
+
+Tags: 4.2.4
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 21f86f780f950805e29e7789249d9f2a754a1ef1
+Directory: 4.2.4/community
+
+Tags: 4.2.4-enterprise
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 21f86f780f950805e29e7789249d9f2a754a1ef1
+Directory: 4.2.4/enterprise
+
+Tags: 4.2.3
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 876140f24eb644b811a2bffc7bc09d9a39f341e7
+Directory: 4.2.3/community
+
+Tags: 4.2.3-enterprise
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 876140f24eb644b811a2bffc7bc09d9a39f341e7
+Directory: 4.2.3/enterprise
+
+Tags: 4.2.2
 GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
 GitCommit: 4421ccd67610e65e501e201c226a8184edc24587
 Directory: 4.2.2/community
 
-Tags: 4.2.2-enterprise, 4.2-enterprise, enterprise
+Tags: 4.2.2-enterprise
 GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
 GitCommit: 4421ccd67610e65e501e201c226a8184edc24587
 Directory: 4.2.2/enterprise
@@ -38,12 +68,42 @@ GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
 GitCommit: 0fee8c3d7314e7729f45781f03e3fe165fa371aa
 Directory: 4.2.0/enterprise
 
-Tags: 4.1.5, 4.1
+Tags: 4.1.8, 4.1
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 532e7003a2922d25baae22305345f27efdcb1bec
+Directory: 4.1.8/community
+
+Tags: 4.1.8-enterprise, 4.1-enterprise
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 532e7003a2922d25baae22305345f27efdcb1bec
+Directory: 4.1.8/enterprise
+
+Tags: 4.1.7
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 04e62b180b0bc708341dbe097262271f0f422139
+Directory: 4.1.7/community
+
+Tags: 4.1.7-enterprise
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 04e62b180b0bc708341dbe097262271f0f422139
+Directory: 4.1.7/enterprise
+
+Tags: 4.1.6
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 17c3e064335f47c1d4b1385dc24863843641f205
+Directory: 4.1.6/community
+
+Tags: 4.1.6-enterprise
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 17c3e064335f47c1d4b1385dc24863843641f205
+Directory: 4.1.6/enterprise
+
+Tags: 4.1.5
 GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
 GitCommit: a3e1de7d6215c50694fca04e92fc4917c1efa0eb
 Directory: 4.1.5/community
 
-Tags: 4.1.5-enterprise, 4.1-enterprise
+Tags: 4.1.5-enterprise
 GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
 GitCommit: a3e1de7d6215c50694fca04e92fc4917c1efa0eb
 Directory: 4.1.5/enterprise
@@ -218,12 +278,32 @@ GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
 GitCommit: 685fb314ef8e451217b6806028b9ac4dbf44d3fc
 Directory: 4.0.0/enterprise
 
-Tags: 3.5.26, 3.5
+Tags: 3.5.28, 3.5
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 83141af227fa047421b3ea81dcb8c1f4a7c6180f
+Directory: 3.5.28/community
+
+Tags: 3.5.28-enterprise, 3.5-enterprise
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: 83141af227fa047421b3ea81dcb8c1f4a7c6180f
+Directory: 3.5.28/enterprise
+
+Tags: 3.5.27
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: ce4bfeffe18865c1b94f0622015087d1d6849fbb
+Directory: 3.5.27/community
+
+Tags: 3.5.27-enterprise
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+GitCommit: ce4bfeffe18865c1b94f0622015087d1d6849fbb
+Directory: 3.5.27/enterprise
+
+Tags: 3.5.26
 GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
 GitCommit: b76f780318bea75347b17ef9a941bef5490d6a5b
 Directory: 3.5.26/community
 
-Tags: 3.5.26-enterprise, 3.5-enterprise
+Tags: 3.5.26-enterprise
 GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
 GitCommit: b76f780318bea75347b17ef9a941bef5490d6a5b
 Directory: 3.5.26/enterprise
