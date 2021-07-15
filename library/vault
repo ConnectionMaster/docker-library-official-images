@@ -3,17 +3,22 @@ Maintainers: Chris Hoffman <choffman@hashicorp.com> (@chrishoffman),
              Matthew Irish <matthew@hashicorp.com> (@meirish)
 GitRepo: https://github.com/hashicorp/docker-vault.git
 
-Tags: 1.6.1, latest
+Tags: 1.8.0-rc2
 Architectures: amd64, arm64v8, arm32v6, i386
-GitCommit: 4ba0bd00d01b9cc8dae746f2123449b5880d715e
+GitCommit: bdd23b0c75add997d0247e3d7fb72338f240fa70
 Directory: 0.X
 
-Tags: 1.5.6
+Tags: 1.7.3, latest
 Architectures: amd64, arm64v8, arm32v6, i386
-GitCommit: 582e208ed98bd7bb1db3219d4879237322228c6a
+GitCommit: d35c24ced09941188833c420c3d300c94cd97345
 Directory: 0.X
 
-Tags: 1.4.7
+Tags: 1.6.5
 Architectures: amd64, arm64v8, arm32v6, i386
-GitCommit: e4635725bcf8ce18f9d8fd5be5a69bf882d21223
+GitCommit: 293e64bfd19428a1c90c0ab09bb1c63510ecb688
+Directory: 0.X
+
+Tags: 1.5.9
+Architectures: amd64, arm64v8, arm32v6, i386
+GitCommit: 72a3539fd91085b2d51cfc87cd9bcf0804e3a5cf
 Directory: 0.X
